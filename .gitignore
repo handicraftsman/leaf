@@ -1,0 +1,6 @@
+leaf
+*.so
+*.o
+leaf.*.sh
+*.link
+*.import.scm

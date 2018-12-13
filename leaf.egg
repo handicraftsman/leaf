@@ -1,0 +1,6 @@
+((author "Nickolay Ilyushin")
+ (synopsis "An extension-based application launcher")
+ (version "0.1.0")
+ (dependencies args)
+ (components
+  (program leaf)))
